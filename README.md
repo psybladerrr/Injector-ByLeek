@@ -1,4 +1,4 @@
-# byLeek Injector (v1.0)
+# byLeek Injector
 
 A lightweight, stealthy, and modern Mono Framework Injection software designed for .NET game interaction. This is a fully compiled, ready-to-use version featuring a sleek dark user interface and advanced privacy bypass mechanisms.
 
